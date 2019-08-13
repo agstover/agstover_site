@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "name": "agstover_blog",
+    "alias": "andrewstover.com",
+    "builds": [{
+        "src": "package.json",
+        "use": "@now/static-build"
+    }]
+}
